@@ -3,7 +3,7 @@ import "./Nav.css"
 
 function Nav() {
     return (
-        <div classNaame="nav">
+        <div className="nav">
             <h2>Trending</h2>
             <h2>Top Rated</h2>
             <h2>Action</h2>
