@@ -1,6 +1,7 @@
 import "./App.css";
 import Header from "./Header";
 import Nav from "./Nav";
+import Results from "./Results";
 
 function App() {
   return (
@@ -9,7 +10,7 @@ function App() {
 
       <Nav />
 
-      {/* Results */}
+      <Results />
     </div>
   );
 }
