@@ -4,7 +4,6 @@ import "./VideoCard.css";
 function VideoCard({ movie }) {
   return (
     <div class="videoCard">
-      <h1>Hello</h1>
       <img
         src="https://i.insider.com/5e27113024306a44bd351a4e?width=1136&format=jpeg"
         alt=""
