@@ -14,7 +14,6 @@ function Results() {
       <VideoCard />
       <VideoCard />
       <VideoCard />
-
     </div>
   );
 }
